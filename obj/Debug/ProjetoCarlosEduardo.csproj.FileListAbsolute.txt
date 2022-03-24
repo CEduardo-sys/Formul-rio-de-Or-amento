@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\bin\Debug\ProjetoCarlosEduardo.exe.config
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\bin\Debug\ProjetoCarlosEduardo.exe
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\bin\Debug\ProjetoCarlosEduardo.pdb
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\obj\Debug\ProjetoCarlosEduardo.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\obj\Debug\ProjetoCarlosEduardo.Form1.resources
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\obj\Debug\ProjetoCarlosEduardo.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\obj\Debug\ProjetoCarlosEduardo.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\obj\Debug\ProjetoCarlosEduardo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\obj\Debug\ProjetoCarlosEduardo.exe
+C:\Users\aluno\Desktop\ProjetoCarlosEduardo\obj\Debug\ProjetoCarlosEduardo.pdb
